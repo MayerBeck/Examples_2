@@ -1,0 +1,15 @@
+D:\Examples\Examole005_conditionIfElse\bin\Debug\net6.0\Examole005_conditionIfElse.exe
+D:\Examples\Examole005_conditionIfElse\bin\Debug\net6.0\Examole005_conditionIfElse.deps.json
+D:\Examples\Examole005_conditionIfElse\bin\Debug\net6.0\Examole005_conditionIfElse.runtimeconfig.json
+D:\Examples\Examole005_conditionIfElse\bin\Debug\net6.0\Examole005_conditionIfElse.dll
+D:\Examples\Examole005_conditionIfElse\bin\Debug\net6.0\Examole005_conditionIfElse.pdb
+D:\Examples\Examole005_conditionIfElse\obj\Debug\net6.0\Examole005_conditionIfElse.csproj.AssemblyReference.cache
+D:\Examples\Examole005_conditionIfElse\obj\Debug\net6.0\Examole005_conditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\Examole005_conditionIfElse\obj\Debug\net6.0\Examole005_conditionIfElse.AssemblyInfoInputs.cache
+D:\Examples\Examole005_conditionIfElse\obj\Debug\net6.0\Examole005_conditionIfElse.AssemblyInfo.cs
+D:\Examples\Examole005_conditionIfElse\obj\Debug\net6.0\Examole005_conditionIfElse.csproj.CoreCompileInputs.cache
+D:\Examples\Examole005_conditionIfElse\obj\Debug\net6.0\Examole005_conditionIfElse.dll
+D:\Examples\Examole005_conditionIfElse\obj\Debug\net6.0\refint\Examole005_conditionIfElse.dll
+D:\Examples\Examole005_conditionIfElse\obj\Debug\net6.0\Examole005_conditionIfElse.pdb
+D:\Examples\Examole005_conditionIfElse\obj\Debug\net6.0\Examole005_conditionIfElse.genruntimeconfig.cache
+D:\Examples\Examole005_conditionIfElse\obj\Debug\net6.0\ref\Examole005_conditionIfElse.dll
